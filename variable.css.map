@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAEA,EAAG;EACC,KAAK,EAHD,GAAG;EAIP,SAAS,EAAE,IAAI;;AAGnB,EAAG;EACC,KAAK,EARD,GAAG;EASP,SAAS,EAAE,IAAI",
-"sources": ["variable.scss"],
-"names": [],
-"file": "variable.css"
-}
+{"version":3,"sourceRoot":"","sources":["variable.scss"],"names":[],"mappings":"AAEA;EACI,OAHI;EAIJ;;;AAGJ;EACI,OARI;EASJ;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EAEI;;;AAGJ;EAEI;;;AAGJ;EAEI","file":"variable.css"}

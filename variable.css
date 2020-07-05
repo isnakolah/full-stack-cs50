@@ -1,9 +1,32 @@
 ul {
   color: red;
-  font-size: 14px; }
+  font-size: 14px;
+}
 
 ol {
   color: red;
-  font-size: 18px; }
+  font-size: 18px;
+}
+
+.danger, .warning, .success {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.success {
+  background-color: green;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.danger {
+  background-color: red;
+}
 
 /*# sourceMappingURL=variable.css.map */
